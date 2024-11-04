@@ -33,7 +33,7 @@ To check valid paths : `$env:PSModulePath -split ';'`
 ## Usage and Example
 Import the module: `Import-Module Az.Secrets` 
 
-Here's an example of a query to get the expiring secrets of specified applications and senting notifications to the recipients inside `$RecipientList` variable :
+Here's an example of a query to get the expiring secrets of specified applications and sending notifications to the recipients inside `$RecipientList` variable :
 
 ![](assets/images/result.png)
 <div align="center">
